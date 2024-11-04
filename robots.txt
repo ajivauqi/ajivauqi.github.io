@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ajivauqi.github.io/OPc/sitemap_index.txt
+Sitemap: https://ajivauqi.github.io/PpC/sitemap_index.txt
+Sitemap: https://ajivauqi.github.io/WPq/sitemap_index.txt
+Sitemap: https://ajivauqi.github.io/YCq/sitemap_index.txt
